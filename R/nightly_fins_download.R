@@ -48,7 +48,7 @@ tryCatch({
   # Download data - get ALL historical data for NPT GRSME Program only
   end_date <- format(Sys.Date(), "%m/%d/%Y")
   
-  log_message(paste("Requesting ALL historical trapping data through", end_date, "for NPT GRSME Program only"))
+  log_message(paste("Requesting ALL historical trapping data through", end_date, "for all of our FINS facilities"))
   # log_message(paste("Requesting ALL historical trapping data through", end_date, "for entire domain"))
   
   fins_data <- get_fins_data(
