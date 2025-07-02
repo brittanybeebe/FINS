@@ -43,6 +43,7 @@ jobs:
             git add data/SpawningData.csv
             git add logs/fins_spawning_download.log
             git commit -m "Update latest FINS spawning data - $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+            git pull
             git push
           else
             echo "No data file found, skipping commit"
