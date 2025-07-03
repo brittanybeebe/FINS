@@ -94,7 +94,7 @@ tryCatch({
     }
     
     if (!is.null(date_col)) {
-      date_range <- range(fins_data[[date_col]], na.rm = TRUE)
+      date_range <- format(range(as.Date(fins_data[[date_col]], format = "%m/%d/%Y"), na.rm = TRUE), "%m/%d/%Y")
       log_message(paste("  Date range:", paste(date_range, collapse = " to ")))
     }
     log_message(paste("  Total records:", nrow(fins_data)))
