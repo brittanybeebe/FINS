@@ -20,3 +20,14 @@
 [INFO] 2025-07-04 04:05:02 UTC (2025-07-03 21:05:02 PT) -   Date range: 08/12/2020 to 08/23/2022
 [INFO] 2025-07-04 04:05:02 UTC (2025-07-03 21:05:02 PT) -   Total records: 1397
 [INFO] 2025-07-04 04:05:02 UTC (2025-07-03 21:05:02 PT) - Download completed successfully
+[INFO] 2025-07-05 03:59:24 UTC (2025-07-04 20:59:24 PT) - Starting nightly FINS data download
+[INFO] 2025-07-05 03:59:24 UTC (2025-07-04 20:59:24 PT) - API key found
+[INFO] 2025-07-05 03:59:24 UTC (2025-07-04 20:59:24 PT) - Current PT time: 2025-07-04 20:59:24
+[INFO] 2025-07-05 03:59:24 UTC (2025-07-04 20:59:24 PT) - Requesting ALL historical spawning data through 07/05/2025 for all of our FINS facilities
+[INFO] 2025-07-05 03:59:36 UTC (2025-07-04 20:59:36 PT) - Downloaded 1397 rows of data
+[INFO] 2025-07-05 03:59:36 UTC (2025-07-04 20:59:36 PT) - Columns: Verify, Finalize, Follow-Up, Session Date, Moved From Facility, Spawning Location, Spawning Location Is Offsite, Spawning Offsite Owner Facility, Spawning Offsite Location Latitude, Spawning Offsite Location Longitude, Spawning Offsite Location Description, Spawning Session Name, Is Import, Is Group Session, Import Custom, Spawning Session Lot #, Cross ID, Spawn ID, Sex, Origin, Origin Expression, Origin Description, Origin Start Date, Origin End Date, Origin Creator, Origin Creation Date, Spawning Ratio, Stock, Stock Agency, Stock Facility, Stock Description, Session Progeny, Brood Year, Spawning Session Comments, Species, Run, Egg Weight(g), Estimated Egg Count, Edit Spawn Cross Notes, Immediate Container, Times Used, Length, Age Calculated, Age Criteria Start Length, Age Criteria End Length, Age Criteria End Date, Age Criteria Start Date, Age Designation, Spawn Status, Living State, Why Not Spawned, Moved From, Moved From Is Offsite, Offsite Moved From Owner Facility, Offsite Moved From Latitude, Offsite Moved From Longitude, Offsite Moved From Location Description, Source Trap Facility, Source Trap, Moved To, Moved To Is Offsite, Offsite Moved To Owner Facility, Offsite Moved To Latitude, Offsite Moved To Longitude, Offsite Moved To Location Description, Moved To Facility, Release Site, Release Site Latitude, Release Site Longitude, Disposition, Purpose, Existing Marks, Existing Marks Quantity, Applied Marks, Applied Marks Quantity, Existing Tags, Applied Tags, Existing CWT, Existing CWT Value, Applied CWT, Applied CWT Value, Existing PIT, Applied PIT, GEN Sample, Samples, Conditions, Notes
+[INFO] 2025-07-05 03:59:36 UTC (2025-07-04 20:59:36 PT) - Successfully saved file: data/SpawningData.csv - Size: 1010400 bytes
+[INFO] 2025-07-05 03:59:36 UTC (2025-07-04 20:59:36 PT) - Data summary:
+[INFO] 2025-07-05 03:59:36 UTC (2025-07-04 20:59:36 PT) -   Date range: 08/12/2020 to 08/23/2022
+[INFO] 2025-07-05 03:59:36 UTC (2025-07-04 20:59:36 PT) -   Total records: 1397
+[INFO] 2025-07-05 03:59:36 UTC (2025-07-04 20:59:36 PT) - Download completed successfully
